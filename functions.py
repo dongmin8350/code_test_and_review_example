@@ -12,7 +12,7 @@ def multiply(a, b):
 
 def square(a, b):
     """a to the power of b"""
-    return a^b
+    return a ** b
 
 def divide(a, b):
     """divide a by b"""
